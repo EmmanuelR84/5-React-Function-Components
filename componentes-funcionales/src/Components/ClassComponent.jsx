@@ -1,4 +1,4 @@
-//La diferencia entre ClassComponent y FuncComponent es que en FuncComponent utilizamos menos codigo y es mas legible
+//La diferencia entre ClassComponent(componentes de clases) y FuncComponent(componentes de funciones) es que en FuncComponent utilizamos menos codigo y es mas legible
 
 import { Component } from "react";
 

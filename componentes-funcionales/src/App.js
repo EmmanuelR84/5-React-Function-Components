@@ -1,13 +1,13 @@
+//No hay necesidad de colocar las tags HTML (gracias a los fragments).
 import './App.css';
-import ClassComponent from './Components/ClassComponent';
-import FuncComponent from './Components/FuncComponent';
+import FormSignUp from './Components/FormSignUp';
 
 function App() {
   return (
-    <div>
-      <ClassComponent />
-      <FuncComponent />
-    </div>
+    <>
+    <h1>Formulario Registro</h1>
+      <FormSignUp />
+    </>
   );
 }
 

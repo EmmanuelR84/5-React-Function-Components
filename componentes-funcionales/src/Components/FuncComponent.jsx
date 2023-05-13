@@ -1,4 +1,4 @@
-//La diferencia entre ClassComponent y FuncComponent es que en FuncComponent utilizamos menos codigo y es mas legible
+//La diferencia entre ClassComponent(componentes de clases) y FuncComponent(componentes de funciones) es que en FuncComponent utilizamos menos codigo y es mas legible
 
 // Para trabajar con los Hooks(funciones) debemos importarlos
 import { useState } from "react";
