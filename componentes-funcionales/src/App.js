@@ -11,7 +11,7 @@ function App() {
   }
 
   return (
-    <Container component='section' maxWidth='sm' sx={{p:'20px'}} >
+    <Container component='section' maxWidth='sm' sx={{p:'25px'}} >
     <Typography variant='h3' align='center' >Formulario Registro</Typography>
       <FormSignUp handleSubmit={handleSubmit} />
     </Container>
